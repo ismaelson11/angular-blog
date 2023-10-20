@@ -1,7 +1,7 @@
 export const dataFake = [
     {
         "id": '1',
-        "title": "Adulto Ney foi de base",
+        "title": "Neymar sofre lesão e fala em possível aposentadoria",
         "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni fuga modi accusantium amet debitis voluptate nulla commodi! Recusandae eum reprehenderit labore sed, aut reiciendis atque nihil, mollitia delectus aperiam tenetur?",
         "photoCover": "https://s2-ge.glbimg.com/CJA6C0jTTS9FtWEaTNgXxH9vt7U=/49x712:2743x2226/810x456/smart/filters:max_age(3600)/https://i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2023/E/3/62gqZpQxOfPsXtGWvf6A/2023-10-18t012640z-23012393-up1ejai040di0-rtrmadp-3-soccer-worldcup-ury-bra-report.jpg"
     },
